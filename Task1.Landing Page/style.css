@@ -1,0 +1,284 @@
+#size{
+    font-family: none;
+    font-size: 65px;
+    text-align: center;
+    
+}
+.intro{
+   
+    width: 94%;
+    background-color:black;
+    padding-left: 75px;
+    position: fixed;
+    
+    
+    
+}
+.about{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    margin-top: 50px;
+    font-family: sans-serif;
+    
+
+  }
+
+  
+  .about ul{
+    overflow: auto;
+  }
+  .about li {
+    float: left;
+    list-style: none;
+    padding-right:40px;
+    padding-bottom:20px;
+    color: white;
+  }
+  .about li a{
+    text-decoration: none;
+    color: white;
+    
+  }
+  .about li a:hover{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+    
+
+}
+.intro ul{
+    overflow: auto;
+    display: inline;
+}
+.intro li {
+    float: right;
+    list-style: none;
+    padding-right:50px;
+    padding-top:20px;
+    color: white;
+    font-size: 20px;
+  }
+  .intro li a{
+    text-decoration: none;
+    color: white;
+    padding-top: 15px;
+    
+  }
+  .intro a:hover{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+#small{
+    font-family: none;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+#ju{
+    font-size: 50px;
+    border-bottom: 10px solid rgb(167, 12, 38);
+    margin-left: 300px;
+    font-family: serif;
+    
+}
+#st{
+    
+    position: relative;
+    color:black;
+    
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+    
+    
+    
+
+
+.text-block{
+    width: 100%;
+    position: absolute;
+    font-size: 20px;
+    bottom: 1px;
+    left: 1px;
+    background-color: rgb(196, 156, 156);
+    color: black;
+    text-align: center;
+    
+
+
+}
+#new{
+    
+    display: inline;
+    position: relative;
+    padding-left: 10px;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+#w{
+    width: 95%;
+    position: absolute;
+    font-size: 20px;
+    bottom: 1px;
+    text-align: center;
+    background-color: rgb(196, 156, 156) ;
+    color: black;
+    
+}
+#p{
+    
+    display: inline;
+    position: relative;
+    padding-left: 10px;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+#i{
+    width: 95%;
+    position: absolute;
+    bottom: 1px;
+    text-align: center;
+    background-color: rgb(196, 156, 156);
+    color: black;
+    
+    font-size: 20px;
+
+}
+#e{
+    
+    
+    display: inline;
+    position: relative;
+    padding-left: 10px;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+#r{
+   
+    width: 95%;
+    position: absolute;
+    bottom: 1px;
+    background-color: rgb(196, 156, 156);
+    color: black;
+   text-align: center;
+    font-size: 20px;
+}
+
+
+#k{
+    
+    display: inline;
+    position: relative;
+    padding-left: 10px;
+    flex-shrink: 1;
+    flex-grow: 2;
+}
+
+#d{
+    
+    width: 77%;
+    position: absolute;
+    bottom: 1px;
+    text-align: center;
+    background-color: rgb(196, 156, 156);
+    color: black;
+   
+    font-size: 20px;
+}
+#o{
+    display: inline;
+}
+#q{
+    padding-top: 40px;
+    font-size: 33px;
+    text-align: center;
+    
+}
+#container{
+   padding-left: 40px;
+    width: 90%;
+    height: 200px;
+    background-color: whitesmoke;
+    display: flex;
+    margin-left: 35px;
+    
+    margin-top: 50px;
+
+}
+
+.pic{
+    height: 800%;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    
+
+}
+
+#t{
+    display: inline;
+    font-size: 40px;
+    text-align: justify;
+    font-family: fangsong;
+    
+    
+    
+}
+
+.about1{
+    color: white;
+    text-decoration: none;
+}
+.about1:hover{
+    color: red;
+    text-decoration: underline;
+}
+.about2{
+    text-decoration:none; font-size: 30px; color: white;
+}
+.about2:hover{
+    color:red;
+    text-decoration: underline;
+}
+.last1{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    
+    margin-top: 60px;
+
+  }
+  .last1 ul{
+    overflow: auto;
+  }
+  .last1 li {
+    float: left;
+    list-style: none;
+    padding-right:40px;
+    padding-top:0px;
+    color: white;
+    font-size: 30px;
+  }
+  .last1 li a{
+    text-decoration: none;
+    color: white;
+  
+  }
+  .last{
+  height: 300px;
+  width: 100%px;
+  background-color: black;
+  margin-top: 50px;
+  }
+  .last1 li a:hover{
+            color: red;
+            text-decoration: underline;
+            cursor: pointer;
+          }
+
