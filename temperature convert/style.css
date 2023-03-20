@@ -1,0 +1,60 @@
+.bod{
+    width:100vw;
+    height: 100vh;
+    background-image:url(image/temp.jpg);
+    display: grid;
+    /* place-items: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+
+    
+    
+    
+}
+form{
+    background-color: whitesmoke;
+    width: 30em;
+    height: 13em;
+    margin-top: 15em;
+    margin-left: 24em;
+    border: 2px solid black;
+    
+}
+.im{
+    position: relative;
+    top: 50px;
+    left: 30px;
+    font-size: 20px;
+    
+}
+.oo{
+    position: relative;
+    top: 70px;
+    left:80px ;
+}
+.pp{
+    position: relative;
+    top: 70px;
+    left:80px ;
+}
+.ww{
+    position: relative;
+    top: 90px;
+    left:200px ;
+    background-color:black;
+    color: white;
+    padding: 5px;
+}
+#resultContainer{
+    position: relative;
+    top: 110px;
+    left:200px ;
+    font-size: 15px;
+}
+.ww:hover{
+    cursor: pointer;
+    background-color: rgb(247, 244, 244);
+    color: rgb(20, 15, 15);
+    
+}
